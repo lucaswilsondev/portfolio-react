@@ -24,7 +24,7 @@ function Contatos() {
                             <BsGithub className={styles.icone} />
                         </a>
 
-                        <a href='' target='_blank' rel='noopener noreferrer'>
+                        <a href='https://www.linkedin.com/in/lucas-wilson-97086226b/?trk=opento_sprofile_topcard' target='_blank' rel='noopener noreferrer'>
                             <BsLinkedin className={styles.icone} />
                         </a>
 
