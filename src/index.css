@@ -5,16 +5,19 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+  background-color: rgb(18,18,18);
+  color: #fff;
 
   --primary: #1b0240;
   --secondary: #0F3460;
   --terceary: #533483;
   --red: #893cfc;
-  --soft-white: #f1f1f1;
-  --white: #fefefe;
+  --soft-black:rgb(18,18,18);
   --black: #111;
   --gray: #222222;
-}
+  --white: #fefefe;
+  --soft-white: rgb(212 212 216);
+} 
 
 * {
   margin: 0;

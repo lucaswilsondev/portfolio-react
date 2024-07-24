@@ -5,7 +5,7 @@ function Footer() {
     return (
         <>
             <footer className={styles.footer}>
-                Feito por Lucas :3
+                Feito por Lucas © 2024 - presente
             </footer>
         </>
     )

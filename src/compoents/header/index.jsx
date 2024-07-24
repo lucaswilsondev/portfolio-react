@@ -8,10 +8,10 @@ function Header() {
             <header className={styles.header}>
                 <span>Portifólio</span>
                 <nav>
-                    <Link to="/">Home</Link>
-                    <Link to="/sobre">Sobre</Link>
-                    <Link to="/projetos">Projetos</Link>
-                    <Link to="/contatos">Contatos</Link>
+                    <Link to="/">//Home</Link>
+                    <Link to="/sobre">//Sobre</Link>
+                    <Link to="/projetos">//Projetos</Link>
+                    <Link to="/contatos">//Contatos</Link>
                 </nav>
             </header>
         </>

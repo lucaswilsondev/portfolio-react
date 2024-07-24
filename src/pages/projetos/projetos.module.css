@@ -1,5 +1,10 @@
+.projetos {
+    margin-top: 20px;
+}
+
 .projetos h2 {
     text-align: center;
+    margin-bottom: 60px;
 }
 
 .lista {

@@ -39,17 +39,12 @@
     align-items: center;
     justify-content: center;
     text-decoration: none;
-}
-
-.btn_red {
     background-color: var(--red);
     color: var(--white);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-decoration: none;
+    transition: all .4s;
 }
 
-.btn_red:hover {
+.btn:hover {
     background-color: var(--primary);
+    transition: all .4s;
 }
